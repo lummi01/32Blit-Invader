@@ -1,10 +1,10 @@
 title: Invader
-description: Classic Space Shooter
+description: Space Invader Clone for 32Blit
 author: M. Gerloff
 splash:
   file: assets/image.png
 icon:
   file: assets/icon.png
-version: v0.0.6
-category: game # game, shooter
-url: https://github.com/lummi01/32Blit-Invader
+version: v0.2.1
+category: game
+url: https://github.com/lummi01/32Blit-Invader.git
